@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "message": "A new version is available!\n\nWhat's new:\n- New dark UI\n- Crash fixes\n- Performance improvements",
+  "message": "🎉 New version available!\n\n- Dark UI added\n- Bug fixes\n- Performance improvements",
   "url": "https://github.com/YourUsername/YourRepo/releases",
   "force": false
 }
